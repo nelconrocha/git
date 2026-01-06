@@ -2,3 +2,10 @@ arquivo
 teste
 para 
 commit
+
+texto
+
+novo
+
+para 
+testes
