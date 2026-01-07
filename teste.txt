@@ -1,0 +1,4 @@
+arquivo
+teste
+para 
+commit
