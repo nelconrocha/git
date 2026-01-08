@@ -2,3 +2,7 @@ arquivo
 teste
 para 
 commit
+teste 
+de git
+pull
+para verificação
