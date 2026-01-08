@@ -1,0 +1,7 @@
+arquivo 
+para 
+teste de 
+push
+para o 
+git
+
